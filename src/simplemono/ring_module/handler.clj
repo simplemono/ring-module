@@ -25,7 +25,7 @@
                          :ring/request request))))
       handlers)))
 
-(defn add-ring-handler
+(defn add
   [w]
   (assoc w
          :ring/handler
