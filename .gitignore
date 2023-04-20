@@ -1,0 +1,7 @@
+/.clj-kondo
+/.lsp
+/target
+/classes
+/checkouts
+/.nrepl-port
+/.cpcache
